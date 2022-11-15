@@ -1,6 +1,8 @@
 # coding: utf-8
 # license: GPLv3
 
+#Данный комментарий нужен исключительно авторам (Спасибо за понимание)
+
 import pygame as pg
 from pygame.draw import *
 
